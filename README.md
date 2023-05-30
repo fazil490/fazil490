@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Fazil
-#### An Aspiring Web Developer
-- I'm currently learning MERN Full Stack
+#### An Aspiring Front-end Developer
+- I'm currently learning Front-end Web Development
 
 - 🧾 My Portfolio:
   - You can check out my projects and blogs [here]()
@@ -11,7 +11,7 @@
   - [Twitter](https://twitter.com/fazil490)
   
 ### Languages:
-  - HTML5, CSS3, JavaScript
+  - HTML5, CSS3, JavaScript, React
   
 ### Tools: 
   - Git and GitHub, VS code, Atom, Netlify...
