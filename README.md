@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Fazil
-#### An Aspiring Front-end Developer
+## Hi, I'm Fazil
 - I'm currently learning Front-end Web Development
 
 - 🧾 My Portfolio:
@@ -9,9 +8,4 @@
   - [Email](mailto:mdif4900@email.com)
   - [LinkedIn](https://www.linkedin.com/in/kj-fazil/)
   - [Twitter](https://twitter.com/fazil490)
-  
-### Languages:
-  - HTML5, CSS3, JavaScript, React
-  
-### Tools: 
-  - Git and GitHub, VS code, Atom, Netlify...
+
