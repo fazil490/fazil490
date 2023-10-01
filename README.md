@@ -2,7 +2,7 @@
 - I'm currently learning Front-end Web Development
 
 - 🧾 My Portfolio:
-  - You can check out my projects and blogs [here]()
+  - You can check out my projects and blogs [here](https://fazilpf.netlify.app/)
   
 - 📫 How to reach me:
   - [Email](mailto:mdif4900@email.com)
