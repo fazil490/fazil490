@@ -1,11 +1,7 @@
 ## Hi, I'm Fazil
-- I'm currently learning Front-end Web Development
-
-- 🧾 My Portfolio:
-  - You can check out my projects and blogs [here](https://fazilpf.netlify.app/)
+- Front-end developer skilled in building responsive and user-friendly web applications, seeking a junior
+developer role to contribute to innovative and impactful projects.
   
 - 📫 How to reach me:
-  - [Email](mailto:mdif4900@email.com)
-  - [LinkedIn](https://www.linkedin.com/in/kj-fazil/)
-  - [Twitter](https://twitter.com/fazil490)
-
+  - [Email](mailto:mdismailfazil56.jy@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/mohamed-ismail-fazil-kj/)
